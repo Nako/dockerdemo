@@ -1,1 +1,1 @@
-BGApp Project
+Test Project
